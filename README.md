@@ -1,9 +1,8 @@
-README.md
 
-CS 4320 SCRUM Trip Group Project
+ # CS 4320 SCRUM Trip Group Project
 
 
-Team Members: 
+ ### Team Members: 
 
 	John Conrad
     
@@ -21,7 +20,7 @@ Team Members:
     
     Steven Gregory
     
-Trip Attendees:
+ ### Trip Attendees:
 
 	John Conrad
     
@@ -42,10 +41,10 @@ Trip Attendees:
     Steven Gregory
     
     
-Destination:
+### Destination:
 
-Budget:
+### Budget:
 
-Length:
+### Length:
 
-Purpose:
+### Purpose:
