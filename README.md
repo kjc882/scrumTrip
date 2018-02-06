@@ -30,7 +30,7 @@ $8000 ($1000 per person)
 
 
 ### Length: 
-One Week
+March 26-30
 
 ### Purpose:
 Ski in Colorado
