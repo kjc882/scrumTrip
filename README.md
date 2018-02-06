@@ -6,7 +6,6 @@ Aaron Henry
 
 
 Going on Trip:
-Aaron Henry
 
 
 Destination:
