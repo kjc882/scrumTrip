@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
  # CS 4320 SCRUM Trip Group Project
 
@@ -34,3 +35,24 @@ March 26-30
 
 ### Purpose:
 Ski in Colorado
+=======
+# scrumTrip
+CS 4320 Scrum Trip Group Project
+
+Members:
+Aaron Henry
+
+
+Going on Trip:
+
+
+Destination:
+
+Budget:
+
+length of Trip:
+
+
+Purpose of Trip:
+
+>>>>>>> refs/remotes/origin/master
