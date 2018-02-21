@@ -1,4 +1,4 @@
-#Gas calculations
+# Gas Calculations
 
 1. Columbia, MO -> Salida, KS is an 814.5mi trip. 
 2. 1629mi Round Trip
